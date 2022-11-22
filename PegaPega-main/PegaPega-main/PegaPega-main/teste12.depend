@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1666243276 source:c:\users\55479\desktop\teste12\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+
+1666295056 source:c:\users\55479\desktop\tdo\teste12\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<wchar.h>
+	<ctype.h>
+
+1666398367 source:c:\users\isado_q7vug86\onedrive\Área de trabalho\pegapega-main\pegapega-main\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<wchar.h>
+	<ctype.h>
+	<string>
+
